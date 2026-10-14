@@ -19,3 +19,4 @@ def display_house_points():
 
 
 display_house_points()
+print("Fim do programa")
